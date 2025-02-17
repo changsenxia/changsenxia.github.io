@@ -22,7 +22,7 @@ For more information, you may take a look at my [Google Scholar](https://scholar
 
 ## Interested Project
 
-###LLM/GDM4OPT
+### LLM/GDM4OPT
 
 * [MoE-PPO](https://github.com/RickyZang/GAI-agent-satellite) - GAI-based PPO for transmission optimization; [paper](https://ieeexplore.ieee.org/abstract/document/10679152/),[code](https://github.com/RickyZang/GAI-agent-satellite)
 
