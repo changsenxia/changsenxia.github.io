@@ -39,6 +39,8 @@ For more information, you may take a look at my [Google Scholar](https://scholar
 * [AGOD](https://github.com/Lizonghang/AGOD) - Diffusion-based Reinforcement Learning for optimization; [paper](https://arxiv.org/abs/2303.13052), [code](https://github.com/Lizonghang/AGOD)
 * [llm-universe](https://github.com/datawhalechina/llm-universe/releases/tag/v1) - dive into LLM
 * [mobile-LlaMA](https://github.com/DNLab2024/Mobile-LLaMA) - 2024 IEEE Network LLM for Network Analysis in 5G Networks;[paper](https://ieeexplore.ieee.org/abstract/document/10583947/),[code](https://github.com/DNLab2024/Mobile-LLaMA)
+* [DBSPF](https://github.com/hslyu/dbspf) - Arxiv2024 Non-iterative Optimization of
+Trajectory and Radio Resource for Aerial Network; [paper](https://arxiv.org/abs/2405.01314).[code](https://arxiv.org/abs/2405.01314)
 
 ### Meteorological-related communication network
 * [LoRaWAN](https://github.com/renata-rojasg/LoRaWAN/) - RSSI under different weather prediction based on ML/DL;[paper](https://www.sciencedirect.com/science/article/pii/S1389128624000902),[code](https://github.com/renata-rojasg/LoRaWAN/),[dataset](https://github.com/emanueleg/lora-rssi)
